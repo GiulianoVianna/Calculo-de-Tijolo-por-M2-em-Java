@@ -1,6 +1,7 @@
 # Calculadora de Tijolos
 
-![image](https://github.com/GiulianoVianna/Calculo-de-Tijolo-por-M2-em-Java/assets/101942554/5eef5362-f58c-4ce6-9123-fddf6b33aad0)
+![image](https://github.com/GiulianoVianna/Calculo-de-Tijolo-por-M2-em-Java/assets/101942554/7a5c8f73-a1c8-49de-98d8-9c14e21f7462)
+
 
 
 ## Descrição
