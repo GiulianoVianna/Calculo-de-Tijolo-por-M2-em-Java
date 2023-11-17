@@ -1,5 +1,8 @@
 # Calculadora de Tijolos
 
+![image](https://github.com/GiulianoVianna/Calculo-de-Tijolo-por-M2-em-Java/assets/101942554/5eef5362-f58c-4ce6-9123-fddf6b33aad0)
+
+
 ## Descrição
 
 Este projeto é uma aplicação prática e interativa para calcular a quantidade de tijolos necessária para um projeto de construção. Com uma interface amigável, permite aos usuários inserir medidas de largura e altura, além de escolher o tipo de tijolo para obter a quantidade exata de tijolos necessários.
@@ -25,5 +28,6 @@ Este projeto é desenvolvido em Java. Para executá-lo, você precisa ter o Java
 Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITORIO]
+https://github.com/GiulianoVianna/Calculo-de-Tijolo-por-M2-em-Java.git
+
 
