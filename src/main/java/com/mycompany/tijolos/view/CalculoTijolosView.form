@@ -105,9 +105,9 @@
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="cbxTipoTijolo" min="-2" max="-2" attributes="0"/>
-                          <Component id="txtLargura" min="-2" max="-2" attributes="0"/>
-                          <Component id="txtAltura" min="-2" max="-2" attributes="0"/>
+                          <Component id="cbxTipoTijolo" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="txtLargura" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="txtAltura" min="-2" pref="25" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
@@ -116,8 +116,8 @@
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="txtTotalM2" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="txtQuantidadeTijolos" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtTotalM2" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="txtQuantidadeTijolos" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
